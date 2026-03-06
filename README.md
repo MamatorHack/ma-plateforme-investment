@@ -26,7 +26,7 @@
 
 > Analyse en temps réel : **Apple** × **Mistral AI**
 
-https://github.com/user-attachments/assets/video_presentation.mp4
+[https://github.com/user-attachments/assets/video_presentation.mp4](https://github.com/user-attachments/assets/561170c6-61e9-4d89-8323-f46603c143d0)
 
 ---
 
