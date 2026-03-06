@@ -147,7 +147,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 <div align="center">
 
-**Développé avec ⚡ par [@MamatorHack](https://github.com/MamatorHack) / Axel Bonneau / Louis Maillet**
+**Développé avec ⚡ par [@MamatorHack](https://github.com/MamatorHack)- Mathis Marsault / Axel Bonneau / Louis Maillet**
 
 *M&A Intelligence Server — Powered by AI*
 
